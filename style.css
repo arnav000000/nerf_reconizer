@@ -1,0 +1,19 @@
+body{
+    background: orange;
+    color: black;
+}
+.heading
+{
+    width: 80%;
+    font-size: 23px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy
+{
+    color: ghostwhite;
+}
+#camera
+{
+    border: 2px dashed black;
+    width: 350px;
+    height: 350px;
+}
